@@ -1,5 +1,5 @@
 # CNN-MNIST
-使用CNN实现对手写数字的识别
+基于PyTorch的手写数字识别分析
 # Requirement
 Using the PyTorch framework for neural networks  
   PyTorch version 1.5.0  
